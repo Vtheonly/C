@@ -17,6 +17,7 @@ void displayList(Node *head)
         head = head->next;
     }
     cout << "\n";
+    cout << "===========================";
 }
 
 // Function to create a singly linked list with 'x' nodes, each containing 'y * i' as data
